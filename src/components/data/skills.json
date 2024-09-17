@@ -1,0 +1,41 @@
+[
+  {
+    "title": "C++",
+    "imageSrc": "skills/cpp.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "React Js",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node Js",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title":"Express Js",
+    "imageSrc":"skills/express js.jpeg"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  
+ 
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  }
+]

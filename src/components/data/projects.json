@@ -1,0 +1,50 @@
+[
+  {
+    "key": 1,
+    "title": "E-Commerce Application",
+    "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
+    "description": "Developed a dynamic e-commerce website named Shop using the MERN stack. Key features include Home, Login, Signup, and Add to Cart. Created a seamless user experience with responsive design and efficient back-end operations.",
+    "demo": "http://13.60.215.210:2345/",
+    "source": "https://github.com/Pk7372singh/E-CommerceApplication.git"
+  },
+  {
+    "key": 2,
+    "title": "Expense Tracer",
+    "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
+    "description": "Personal expense tracker using the MERN stack. Users can register, log in, manage expenses, and view history. Features authentication, CRUD operations for expenses, and a simple UI for interaction.",
+    "demo": "http://13.60.215.210:8080/signup",
+    "source": "https://github.com/Pk7372singh/Expense__Tracer.git"
+  },
+  {
+    "key": 3,
+    "title": "Music Application",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
+    "description": "Music app with features like search, music control, tab change, and seeker control. Responsive design with player component as the main interface on smaller screens. Uses REST API for data loading.",
+    "demo": "http://13.60.215.210:1234/",
+    "source": "https://github.com/Pk7372singh/Music_Applicaton-Spotify.git"
+  },
+  {
+    "key": 4,
+    "title": "Credit-Cards-Management System",
+    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "description": "Created a credit card management system with MERN stack. Developed an admin panel with pages for managing credit cards and banks. Focused on a user-friendly interface with CRUD operations.",
+    "demo": "https://credit-cards-management-1.onrender.com/",
+    "source": "https://github.com/Pk7372singh/Credit-Cards-Management.git"
+  },
+  {
+    "key": 5,
+    "title": "Online Study Point",
+    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "description": "Online study platform providing educational resources. Developed using HTML, CSS, and JavaScript. Features a visually appealing interface and interactive elements to enhance the learning experience.",
+    "demo": "https://pk7372singh.github.io/Online-Study-Point/",
+    "source": "https://github.com/Pk7372singh/Online-Study-Point.git"
+  },
+  {
+    "key": 6,
+    "title": "Responsive Travel Application",
+    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "description": "Online study platform providing educational resources. Developed using HTML, CSS, and JavaScript. Features a visually appealing interface and interactive elements to enhance the learning experience.",
+    "demo": "https://pk7372singh.github.io/Responsive-Travel-Website/",
+    "source": "https://github.com/Pk7372singh/Responsive-Travel-Website.git"
+  }
+]
