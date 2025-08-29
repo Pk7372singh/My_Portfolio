@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: blue; 
+  background-color: #01010a; 
   color: white; 
   margin: 0; 
   padding: 0; 
@@ -21,7 +21,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: blue; 
+  background-color: #01010a; 
   padding: 10px; 
 }
 
@@ -42,7 +42,7 @@ a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: blue; 
+  background-color: #01010a; 
 }
 
 .home .left {
@@ -62,13 +62,13 @@ a {
 }
 
 .home .right .img img {
-  height: 270px;
-  width: 270px;
-  border: 5px solid yellow;
+  height: 400px;
+  width: 400px;
+  border: 5px solid #01010a;
   border-radius: 100%;
-  animation-name: superman;
-  animation-duration: 3s;
-  animation-iteration-count: infinite;
+  /* animation-name: superman;
+  animation-duration: 3s; */
+  /* animation-iteration-count: infinite; */
 }
 
 @keyframes superman {
@@ -156,7 +156,7 @@ a {
 
 
 .contact {
-  background-color: blue;
+  background-color: #01010a;
 }
 
 .contact-icon {

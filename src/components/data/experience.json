@@ -1,47 +1,37 @@
 [
   {
     "id": 1,
+  "role": "Software Developer",
+  "organisation": "Procellence Technology",
+  "startDate": "January, 2025",
+  "endDate": "Present",
+  "location": "Remote",
+  "experiences": [
+    " Developed and maintained features for the Qynko App, a mobile application built with Flutter, including notifications, comment functionality, and follow/unfollow functionality. Implemented Firebase Analytics, Facebook Analytics, and Google Analytics to monitor user behavior and engagement across both mobile and web platforms"
+  ],
+    "imageSrc": "company/og-image.jpeg"
+  },
+  {
+    "id": 2,
   "role": "Junior MERN full stack developer",
   "organisation": "Vulnshields",
-  "startDate": "May, 2024",
-  "endDate": "Present",
+  "startDate": "October, 2023",
+  "endDate": "December,2024",
   "location": "Bangalore, Karnataka, India",
   "experiences": [
     "As a Junior MERN Full Stack Developer at Vulnshields, I contribute to the front-end development of the company website using React.js, design and implement user interfaces, ensure responsiveness, and integrate with backend services for a seamless user experience. Additionally, I deploy and manage projects on AWS, utilizing services such as EC2, S3, and RDS to ensure scalability and reliability."
   ],
     "imageSrc": "company/company.jpeg"
   },
-  {
-    "id": 1,
-  "role": "MERN Full Stack - Training",
-  "organisation": "Ethnus Codemithra",
-  "startDate": "August, 2023",
-  "endDate": "April, 2024",
-  "location": "Bangalore, Karnataka, India",
-  "experiences": [
-    "Acquired MERN stack expertise, seamlessly navigating between frontend (React) and backend (Node.js, Express) technologies. Designed, implemented, and maintained robust web applications during dynamic training at Ethnus Codemithra. Contributed to innovative solutions, collaborating closely with a talented team in a hands-on, collaborative environment."
-  ],
-    "imageSrc": "company/ethnus.png"
-  },
-  {
-    "id": 1,
-  "role": "Java Full Stack - Intern",
-  "organisation": "Vulnshields",
-  "startDate": "April, 2023",
-  "endDate": "May, 2023",
-  "location": "Remote",
-  "experiences": [
-    " Front-end and back-end web development professionals collaborate with design and development teams to create user-friendly interfaces and robust server-side systems, resulting in a 25% increase in user engagement through enhanced functionality. They assist in database integration and optimization, ensuring seamless data handling."
-  ],
-    "imageSrc": "company/kodnest.png"
-  },
+ 
+
   {
     "id": 1,
   "role": "Web Developer - Intern",
   "organisation": "Youth India Foundation",
   "organisationLink": "https://www.youthindiafoundation.com/",
-  "startDate": "May, 2024",
-  "endDate": "Present",
+  "startDate": "July, 2021",
+  "endDate": "October, 2021",
   "location": "Remote",
   "experiences": [
     " Designed and continually enhanced a website for an organization, working collaboratively with the team to implement updates, resulting in a 30% improvement in responsiveness across devices, ultimately elevating the user experience with enhanced functionality and a 20% increase in user engagement."

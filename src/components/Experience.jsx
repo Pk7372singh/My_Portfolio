@@ -26,7 +26,7 @@ const Experience = () => {
                     </span>{" "}
                     <span style={{ color: "black" }}>{data.location}</span>
                   </h4>
-                  <h5 style={{ color: "black" }}>{data.experiences[0]}</h5>
+                  <h6 style={{ color: "gray" }}>{data.experiences[0]}</h6>
                 </div>
               </div>
             </>

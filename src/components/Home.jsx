@@ -11,6 +11,7 @@ const Home = () => {
         "Welcome to my profile",
         "My Name is Prafful Kumar",
         "I'm full stack developer",
+        "I have 2 Years of experience",
       ],
       typeSpeed: 50,
       backSpeed: 50,
@@ -33,7 +34,7 @@ const Home = () => {
           <a
             href={pdf}
             download="Resume_Prafful Kumar.pdf"
-            className="btn btn-outline-warning my-3"
+            className="btn btn-outline-warning mt-2"
           >
             Download Resume
           </a>

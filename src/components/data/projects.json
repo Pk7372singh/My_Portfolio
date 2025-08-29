@@ -1,9 +1,17 @@
 [
   {
+    "key": 0,
+    "title": "To-Do List",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
+    "description": "Created a full-featured To-Do List application using the MERN stack with user authentication, task CRUD operations, and a clean responsive interface for managing daily tasks efficiently.",
+    "demo": "",
+    "source": "https://github.com/Pk7372singh/To-Do-List"
+  },
+  {
     "key": 1,
     "title": "E-Commerce Application",
     "imageSrc": "https://cdn.pixabay.com/photo/2018/02/04/17/39/crypto-currency-3130381_640.jpg",
-    "description": "Developed a dynamic e-commerce website named Shop using the MERN stack. Key features include Home, Login, Signup, and Add to Cart. Created a seamless user experience with responsive design and efficient back-end operations.",
+    "description": "Built a dynamic e-commerce platform using the MERN stack with features like authentication, product management, cart system, and responsive UI for seamless shopping experience.",
     "demo": "http://13.60.215.210:2345/",
     "source": "https://github.com/Pk7372singh/E-CommerceApplication.git"
   },
@@ -11,23 +19,23 @@
     "key": 2,
     "title": "Expense Tracer",
     "imageSrc": "https://cdn.pixabay.com/photo/2017/05/02/15/30/streets-2278471_640.jpg",
-    "description": "Personal expense tracker using the MERN stack. Users can register, log in, manage expenses, and view history. Features authentication, CRUD operations for expenses, and a simple UI for interaction.",
+    "description": "Developed a personal expense tracker using the MERN stack enabling user registration, authentication, expense CRUD operations, and history tracking with a clean interface.",
     "demo": "http://13.60.215.210:8080/signup",
     "source": "https://github.com/Pk7372singh/Expense__Tracer.git"
   },
   {
-    "key": 3,
-    "title": "Music Application",
-    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
-    "description": "Music app with features like search, music control, tab change, and seeker control. Responsive design with player component as the main interface on smaller screens. Uses REST API for data loading.",
-    "demo": "http://13.60.215.210:1234/",
-    "source": "https://github.com/Pk7372singh/Music_Applicaton-Spotify.git"
+    "key": 6,
+    "title": "Responsive Travel App",
+    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+    "description": "Developed a responsive travel website using HTML, CSS, and JavaScript featuring destination highlights, modern design, and interactive user experience.",
+    "demo": "https://pk7372singh.github.io/Responsive-Travel-Website/",
+    "source": "https://github.com/Pk7372singh/Responsive-Travel-Website.git"
   },
   {
     "key": 4,
-    "title": "Credit-Cards-Management System",
+    "title": "Credit-Cards-Management",
     "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-    "description": "Created a credit card management system with MERN stack. Developed an admin panel with pages for managing credit cards and banks. Focused on a user-friendly interface with CRUD operations.",
+    "description": "Developed a credit card management system using MERN stack with admin panel, CRUD operations for cards and banks, and a user-friendly dashboard interface.",
     "demo": "https://credit-cards-management-1.onrender.com/",
     "source": "https://github.com/Pk7372singh/Credit-Cards-Management.git"
   },
@@ -35,16 +43,17 @@
     "key": 5,
     "title": "Online Study Point",
     "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-    "description": "Online study platform providing educational resources. Developed using HTML, CSS, and JavaScript. Features a visually appealing interface and interactive elements to enhance the learning experience.",
+    "description": "Designed an online study portal using HTML, CSS, and JavaScript with structured learning resources, interactive UI components, and visually engaging layouts.",
     "demo": "https://pk7372singh.github.io/Online-Study-Point/",
     "source": "https://github.com/Pk7372singh/Online-Study-Point.git"
   },
+  
   {
-    "key": 6,
-    "title": "Responsive Travel Application",
-    "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
-    "description": "Online study platform providing educational resources. Developed using HTML, CSS, and JavaScript. Features a visually appealing interface and interactive elements to enhance the learning experience.",
-    "demo": "https://pk7372singh.github.io/Responsive-Travel-Website/",
-    "source": "https://github.com/Pk7372singh/Responsive-Travel-Website.git"
+    "key": 3,
+    "title": "Music Application",
+    "imageSrc": "https://cdn.pixabay.com/photo/2016/08/16/17/12/skyscrapers-1598418_640.jpg",
+    "description": "Created a responsive music streaming app using MERN stack with modern search, player controls, tab switching, and API-based data loading for smooth music playback features.",
+    "demo": "http://13.60.215.210:1234/",
+    "source": "https://github.com/Pk7372singh/Music_Applicaton-Spotify.git"
   }
 ]
